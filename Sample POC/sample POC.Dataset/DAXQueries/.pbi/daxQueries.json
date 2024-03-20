@@ -3,10 +3,10 @@
   "tabOrder": [
     "DATEADD",
     "DATESINPERIOD",
-    "SAMEPERIODLASTYEAR",
-    "PARALLELPERIOD",
     "Query 1",
-    "Query 2"
+    "Query 2",
+    "SAMEPERIODLASTYEAR",
+    "PARALLELPERIOD"
   ],
-  "defaultTab": "Query 2"
+  "defaultTab": "PARALLELPERIOD"
 }
