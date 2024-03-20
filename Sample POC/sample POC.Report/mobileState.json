@@ -1,0 +1,5 @@
+{
+  "objectId": "",
+  "type": 4,
+  "explorationState": "{\"version\":\"1.8\",\"activeSection\":\"\",\"sections\":{\"ReportSection9952bf8740ad3400b65c\":{\"visualContainers\":{\"833d99e632dddcad5900\":{\"singleVisual\":{\"visualType\":\"map\",\"mobileObjects\":{\"heatMap\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"bubbles\":[{\"properties\":{\"bubbleSize\":{\"expr\":{\"Literal\":{\"Value\":\"-10L\"}}}}}]}}}}}}}"
+}
