@@ -1,9 +1,4 @@
 {
   "version": "1.0",
-  "remoteArtifacts": [
-    {
-      "reportId": "72aa71cf-5642-4670-a322-de48bb91aa09"
-    }
-  ],
-  "securityBindingsSignature": "AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAs6eps/ljYU+UGgiGMc8+eAAAAAACAAAAAAADZgAAwAAAABAAAAA6TYah250r/c9tj6QqcBgzAAAAAASAAACgAAAAEAAAAOOdmbbp9L1rS1NkXQaet/doAAAAwuo/mstu6LmO8xxlPppgFj/o7gciPnp/4dBbvytE7nrXP4onBMizWixwtz4ljhhm79KnVu/HlLwR4HvHx0QhCKG49aRDgYr22V8vm2P8iJ0KFja4wefOTKBiksWXBoKdizD9BpmvsigUAAAAcgm4kXBfbUcg0RrEAS1uVxxeGKo="
+  "securityBindingsSignature": "AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAs6eps/ljYU+UGgiGMc8+eAAAAAACAAAAAAADZgAAwAAAABAAAAAUOl+8UZaSc8wHLzhyYDemAAAAAASAAACgAAAAEAAAAA22kEBCqKBhJ0yFQ/KM2hJoAAAAeUx8nwKJeSUxpB4tJArgrKIWboYmPKeRKU4z3R2Kpj5xOjnZ82gX1LNrQD35K4i67dUh6WmdA29xLlcLX5XIbbjto4eNF+NbiL9IPWnzeLbUmgt+37cqAQRsVtn7H6fUbGzvHyNazykUAAAATExDRA3GmyzYwvEd24fkGHKx6XA="
 }
