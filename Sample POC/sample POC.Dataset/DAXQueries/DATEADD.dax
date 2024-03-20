@@ -1,0 +1,5 @@
+EVALUATE
+CALCULATETABLE(
+dateadd('Calendar'[Date],-1,YEAR),
+'Calendar'[Date] >= DATE(2023,11,01) && 'Calendar'[Date] <= DATE(2023,11,15)
+)
