@@ -1,2 +1,0 @@
-EVALUATE
-SUMMARIZECOLUMNS(Orders[Category], Orders[Sub-Category], "Sales", SUM(Orders[Sales]))

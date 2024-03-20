@@ -1,5 +1,0 @@
-// A date collector collects the date from the starting point (2nd input parameter) till the number of intervals and the interval
-EVALUATE
-CALCULATETABLE(
-DATESINPERIOD('Calendar'[Date],DATE(2023,11,01),-1,YEAR)
-)

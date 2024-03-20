@@ -1,5 +1,0 @@
-EVALUATE
-CALCULATETABLE(
-                DATESYTD('Calendar'[Date]),
-                'Calendar'[Date] < TODAY()
-                )

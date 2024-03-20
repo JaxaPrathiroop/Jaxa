@@ -1,6 +1,0 @@
-// Here the calculation context is exactly shifted by 1 year and no flexibility to change the intervels like dateadd
-EVALUATE
-CALCULATETABLE(
-SAMEPERIODLASTYEAR('Calendar'[Date]),
-'Calendar'[Date] >= DATE(2023,11,01) && 'Calendar'[Date] <= DATE(2023,11,15)
-)
