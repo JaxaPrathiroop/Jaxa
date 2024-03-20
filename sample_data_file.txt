@@ -1,3 +1,1 @@
 sample data entered into the git repo
-second line added 
-Third line is added
