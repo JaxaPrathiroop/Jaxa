@@ -1,3 +1,4 @@
 sample data entered into the git repo
 
 first line
+second line
